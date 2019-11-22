@@ -1,0 +1,815 @@
+---------Task 1 Random Word Sync Function-----------
+1: fellow
+2: degree
+3: wait
+4: selection
+5: run
+6: writing
+7: mirror
+8: hold
+9: ground
+10: all
+11: show
+12: fog
+13: dot
+14: desk
+15: coal
+16: can
+17: joined
+18: four
+19: today
+20: interest
+21: horse
+22: learn
+23: cool
+24: food
+25: replied
+26: notice
+27: pride
+28: use
+29: scale
+30: seat
+31: eat
+32: flew
+33: touch
+34: whispered
+35: heavy
+36: or
+37: finest
+38: till
+39: saved
+40: hole
+41: prevent
+42: proper
+43: gray
+44: disappear
+45: usually
+46: pupil
+47: fair
+48: labor
+49: split
+50: mood
+51: nervous
+52: government
+53: black
+54: country
+55: draw
+56: syllable
+57: stock
+58: understanding
+59: finish
+60: matter
+61: raise
+62: vapor
+63: coach
+64: loss
+65: region
+66: raise
+67: equator
+68: poet
+69: double
+70: lovely
+71: torn
+72: this
+73: fact
+74: eight
+75: highway
+76: pleasant
+77: of
+78: becoming
+79: whispered
+80: third
+81: coal
+82: my
+83: worker
+84: ten
+85: thread
+86: actually
+87: leader
+88: piano
+89: atom
+90: army
+91: change
+92: above
+93: shaking
+94: stomach
+95: put
+96: dark
+97: come
+98: control
+99: realize
+100: deeply
+
+---------Task 2 FizzBuzz Sync Function-----------
+1: product
+2: go
+3: Fizz
+4: Buzz
+5: Fizz
+6: Fizz
+7: Buzz
+8: Fizz
+9: thou
+10: machine
+11: daughter
+12: tall
+13: home
+14: just
+15: Buzz
+16: Fizz
+17: such
+18: Fizz
+19: Fizz
+20: Buzz
+21: Buzz
+22: Fizz
+23: Fizz
+24: Buzz
+25: Buzz
+26: Fizz
+27: subject
+28: Fizz
+29: exchange
+30: Buzz
+31: perfect
+32: Buzz
+33: thousand
+34: fish
+35: observe
+36: leather
+37: Fizz
+38: Fizz
+39: Buzz
+40: Fizz
+41: friendly
+42: Fizz
+43: perfect
+44: Fizz
+45: busy
+46: bill
+47: Fizz
+48: Fizz
+49: roll
+50: done
+51: equator
+52: Fizz
+53: bone
+54: Fizz
+55: Fizz
+56: Buzz
+57: recently
+58: Fizz
+59: moon
+60: Fizz
+61: Fizz
+62: Buzz
+63: Fizz
+64: trip
+65: give
+66: national
+67: blew
+68: Buzz
+69: Buzz
+70: Fizz
+71: Buzz
+72: game
+73: farther
+74: deer
+75: Buzz
+76: Fizz
+77: mistake
+78: hole
+79: airplane
+80: girl
+81: disease
+82: Fizz
+83: ordinary
+84: massage
+85: Buzz
+86: handsome
+87: bare
+88: keep
+89: Buzz
+90: Buzz
+91: Fizz
+92: laid
+93: Fizz
+94: poem
+95: Buzz
+96: coal
+97: Fizz
+98: Buzz
+99: Fizz
+100: east
+
+---------Task 3 FizzBuzz Async Function-----------
+1: open
+2: Buzz
+3: gain
+4: Fizz
+5: hung
+6: upon
+7: greatest
+8: Fizz
+9: does
+10: Fizz
+11: Buzz
+12: Buzz
+13: quickly
+14: compass
+15: Fizz
+16: tonight
+17: lips
+18: cake
+19: seed
+20: pine
+21: Fizz
+22: Fizz
+23: Fizz
+24: Fizz
+25: Fizz
+26: kitchen
+27: Buzz
+28: Fizz
+29: path
+30: Fizz
+31: element
+32: Buzz
+33: Buzz
+34: involved
+35: Fizz
+36: goes
+37: barn
+38: Buzz
+39: Buzz
+40: grew
+41: if
+42: Fizz
+43: instant
+44: Fizz
+45: mass
+46: Fizz
+47: Buzz
+48: Buzz
+49: Fizz
+50: Fizz
+51: Fizz
+52: Fizz
+53: Fizz
+54: related
+55: Buzz
+56: Fizz
+57: Fizz
+58: your
+59: Buzz
+60: receive
+61: Fizz
+62: Fizz
+63: Buzz
+64: realize
+65: hearing
+66: Buzz
+67: know
+68: Fizz
+69: till
+70: Fizz
+71: Fizz
+72: film
+73: iron
+74: Buzz
+75: Fizz
+76: Fizz
+77: railroad
+78: Fizz
+79: Buzz
+80: Fizz
+81: Buzz
+82: Buzz
+83: tall
+84: feed
+85: tell
+86: Fizz
+87: Fizz
+88: himself
+89: Fizz
+90: prepare
+91: Fizz
+92: Buzz
+93: Fizz
+94: Fizz
+95: lack
+96: Fizz
+97: Fizz
+98: Fizz
+99: Buzz
+100: face
+
+---------Task 3 Random Word Async Function-----------
+1: shall
+2: order
+3: smallest
+4: meet
+5: stick
+6: river
+7: fish
+8: think
+9: weigh
+10: brown
+11: connected
+12: mighty
+13: slept
+14: bowl
+15: character
+16: husband
+17: fire
+18: brief
+19: refused
+20: condition
+21: mad
+22: circle
+23: level
+24: how
+25: comfortable
+26: event
+27: life
+28: beside
+29: steel
+30: throat
+31: somebody
+32: shore
+33: simple
+34: six
+35: lost
+36: eight
+37: soldier
+38: does
+39: twice
+40: dull
+41: soil
+42: bar
+43: spite
+44: industrial
+45: heart
+46: engineer
+47: specific
+48: spirit
+49: yes
+50: serious
+51: connected
+52: highest
+53: slave
+54: tonight
+55: station
+56: discuss
+57: plan
+58: appearance
+59: center
+60: difficulty
+61: monkey
+62: beside
+63: book
+64: suddenly
+65: plastic
+66: recent
+67: strange
+68: experiment
+69: impossible
+70: by
+71: speed
+72: fallen
+73: pile
+74: point
+75: some
+76: mood
+77: rose
+78: iron
+79: tea
+80: opportunity
+81: asleep
+82: silent
+83: best
+84: buried
+85: number
+86: vessels
+87: sentence
+88: truck
+89: money
+90: please
+91: journey
+92: with
+93: yourself
+94: fought
+95: until
+96: silent
+97: western
+98: worker
+99: instrument
+100: capital
+
+---------Task 4 Random Word Sync Function Error Handled-----------
+1: for
+2: It shouldn't break anything!
+3: It shouldn't break anything!
+4: It shouldn't break anything!
+5: color
+6: respect
+7: guess
+8: excitement
+9: tent
+10: fog
+11: final
+12: It shouldn't break anything!
+13: fifteen
+14: bottle
+15: excellent
+16: It shouldn't break anything!
+17: love
+18: hill
+19: suit
+20: aloud
+21: anywhere
+22: cold
+23: layers
+24: younger
+25: solid
+26: It shouldn't break anything!
+27: It shouldn't break anything!
+28: must
+29: development
+30: pig
+31: letter
+32: promised
+33: It shouldn't break anything!
+34: them
+35: bill
+36: season
+37: brief
+38: fifth
+39: push
+40: badly
+41: It shouldn't break anything!
+42: darkness
+43: problem
+44: actual
+45: scared
+46: exciting
+47: weak
+48: little
+49: original
+50: divide
+51: roof
+52: greater
+53: poetry
+54: wire
+55: divide
+56: steep
+57: It shouldn't break anything!
+58: because
+59: bark
+60: pink
+61: It shouldn't break anything!
+62: nobody
+63: It shouldn't break anything!
+64: wolf
+65: invented
+66: grandmother
+67: government
+68: test
+69: wheel
+70: sum
+71: having
+72: pocket
+73: occasionally
+74: It shouldn't break anything!
+75: freedom
+76: It shouldn't break anything!
+77: different
+78: meant
+79: It shouldn't break anything!
+80: It shouldn't break anything!
+81: fish
+82: card
+83: roll
+84: shorter
+85: difference
+86: useful
+87: success
+88: chemical
+89: hunt
+90: bow
+91: selection
+92: ordinary
+93: badly
+94: careful
+95: raw
+96: blank
+97: It shouldn't break anything!
+98: satellites
+99: useful
+100: It shouldn't break anything!
+
+---------Task 4 FizzBuzz Sync Function Error Handled-----------
+1: tree
+2: Fizz
+3: Fizz
+4: thin
+5: It shouldn't break anything!
+6: date
+7: up
+8: deer
+9: luck
+10: Buzz
+11: Buzz
+12: Fizz
+13: fell
+14: rose
+15: next
+16: It shouldn't break anything!
+17: recently
+18: tail
+19: Buzz
+20: Buzz
+21: area
+22: curious
+23: Buzz
+24: Buzz
+25: Buzz
+26: Buzz
+27: Fizz
+28: careful
+29: Buzz
+30: Buzz
+31: It shouldn't break anything!
+32: tent
+33: Fizz
+34: vast
+35: fill
+36: Buzz
+37: Fizz
+38: mountain
+39: Buzz
+40: Buzz
+41: explanation
+42: Buzz
+43: It shouldn't break anything!
+44: east
+45: Buzz
+46: Fizz
+47: slightly
+48: chamber
+49: because
+50: Buzz
+51: wait
+52: Buzz
+53: Buzz
+54: It shouldn't break anything!
+55: It shouldn't break anything!
+56: Fizz
+57: prepare
+58: Fizz
+59: Fizz
+60: It shouldn't break anything!
+61: It shouldn't break anything!
+62: pipe
+63: Fizz
+64: nice
+65: well
+66: Buzz
+67: It shouldn't break anything!
+68: slow
+69: Fizz
+70: It shouldn't break anything!
+71: It shouldn't break anything!
+72: earlier
+73: mill
+74: Fizz
+75: position
+76: Fizz
+77: Fizz
+78: pass
+79: Buzz
+80: Fizz
+81: natural
+82: wish
+83: test
+84: Fizz
+85: flat
+86: outline
+87: Fizz
+88: Fizz
+89: fuel
+90: Fizz
+91: Fizz
+92: Buzz
+93: Fizz
+94: Fizz
+95: Buzz
+96: torn
+97: most
+98: Fizz
+99: It shouldn't break anything!
+100: Fizz
+
+---------Task 4 Random Word Async Function Error Handled-----------
+It shouldn't break anything!
+2: account
+3: into
+4: perfectly
+5: topic
+It shouldn't break anything!
+7: require
+It shouldn't break anything!
+9: whom
+10: look
+11: division
+It shouldn't break anything!
+It shouldn't break anything!
+14: military
+15: wheat
+16: feet
+17: cattle
+18: cover
+It shouldn't break anything!
+20: stuck
+21: magnet
+It shouldn't break anything!
+23: piano
+24: paragraph
+25: may
+It shouldn't break anything!
+It shouldn't break anything!
+28: garage
+29: perfectly
+30: goes
+31: plus
+32: himself
+33: course
+34: laid
+35: husband
+36: circus
+It shouldn't break anything!
+38: bound
+39: leader
+40: hat
+It shouldn't break anything!
+42: massage
+It shouldn't break anything!
+44: arrangement
+45: wife
+46: office
+47: parts
+It shouldn't break anything!
+49: sometime
+It shouldn't break anything!
+51: full
+It shouldn't break anything!
+53: blanket
+54: battle
+55: search
+56: early
+57: hand
+58: under
+59: day
+It shouldn't break anything!
+61: swung
+It shouldn't break anything!
+63: below
+It shouldn't break anything!
+65: successful
+66: public
+67: name
+68: bear
+69: famous
+70: those
+71: public
+72: company
+73: greater
+It shouldn't break anything!
+75: command
+76: length
+77: refer
+78: frequently
+79: spend
+80: load
+It shouldn't break anything!
+82: company
+83: if
+84: exciting
+It shouldn't break anything!
+86: writing
+87: built
+88: fifty
+89: hurt
+90: wall
+91: block
+92: establish
+93: storm
+94: parallel
+It shouldn't break anything!
+96: during
+97: ocean
+98: effort
+99: since
+100: happily
+
+---------Task 4 FizzBuzz Async Function Error Handled-----------
+Fizz
+potatoes
+deal
+turn
+tall
+Fizz
+will
+Buzz
+Fizz
+It shouldn't break anything!
+It shouldn't break anything!
+It shouldn't break anything!
+It shouldn't break anything!
+date
+Fizz
+powerful
+Fizz
+Buzz
+It shouldn't break anything!
+success
+Fizz
+chicken
+Fizz
+It shouldn't break anything!
+mountain
+Buzz
+room
+Fizz
+also
+by
+It shouldn't break anything!
+Buzz
+Buzz
+pack
+Fizz
+crop
+Buzz
+Fizz
+It shouldn't break anything!
+Buzz
+door
+Buzz
+college
+process
+Buzz
+It shouldn't break anything!
+Buzz
+pleasure
+Buzz
+Fizz
+tree
+It shouldn't break anything!
+Fizz
+It shouldn't break anything!
+Buzz
+Buzz
+Buzz
+Buzz
+Fizz
+Fizz
+crew
+Buzz
+Buzz
+It shouldn't break anything!
+Buzz
+fish
+Fizz
+Buzz
+Buzz
+Buzz
+settlers
+anywhere
+Buzz
+Fizz
+Fizz
+Fizz
+observe
+tightly
+Buzz
+Fizz
+Buzz
+bent
+prevent
+have
+Buzz
+invented
+Buzz
+Buzz
+composed
+Buzz
+Fizz
+brought
+Buzz
+equally
+Buzz
+It shouldn't break anything!
+somebody
+Buzz
+Fizz
+Buzz
